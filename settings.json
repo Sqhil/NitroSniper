@@ -1,18 +1,18 @@
 {
   "tokens": {
-    "main": "",
+    "main": "ODIzNjEyMjc1ODIyNDI4MTcy.YFjXXA.76TwuWyme9tlDSZNKhG_iPwNodM",
     "alts": [
-      ""
+      "ODIzNjEzNzc3MTM1NDAzMDM5.YFjYMw.HT-Yg6_dtVlXMEVcSJuJJsn2uhE"
     ]
   },
   "status": {
-    "main": "",
+    "main": "invisible",
     "alts": "invisible"
   },
   "nitro": {
     "max": 2,
     "cooldown": 24,
-    "main_sniper": true,
+    "main_sniper": false,
     "delay": false
   },
   "giveaway": {
@@ -40,10 +40,10 @@
     "cooldown": 25
   },
   "privnote": {
-    "enable": false
+    "enable": true
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/823613150753849364/JEhzQJBJWK-XHR_FhyYpPc3B5HimguTxMfvaYX3YNPmyP93Mrobsl8enJ5TNDCQkSl9-",
     "good_only": true
   }
 }
