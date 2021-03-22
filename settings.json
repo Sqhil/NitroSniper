@@ -13,10 +13,10 @@
     "max": 2,
     "cooldown": 24,
     "main_sniper": true,
-    "delay": true
+    "delay": false
   },
   "giveaway": {
-    "enable": true,
+    "enable": false,
     "delay": 15,
     "dm": "Hey, I won a giveaway !",
     "dm_delay": 25,
@@ -33,17 +33,17 @@
   "invite": {
     "enable": true,
     "delay": {
-      "min": 10,
-      "max": 20
+      "min": 1,
+      "max": 5
     },
-    "max": 10,
-    "cooldown": 6
+    "max": 50,
+    "cooldown": 25
   },
   "privnote": {
     "enable": false
   },
   "webhook": {
     "url": "",
-    "good_only": false
+    "good_only": true
   }
 }
